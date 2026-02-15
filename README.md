@@ -1,0 +1,1 @@
+# farmer-crop-intelligence-and-community-platform
