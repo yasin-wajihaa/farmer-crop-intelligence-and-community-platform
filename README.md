@@ -1,3 +1,1 @@
-# farmer-crop-intelligence-and-community-platform
-
-Testing branch protection
+use this url : 127.0.0.1:8000
